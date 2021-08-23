@@ -6,9 +6,10 @@ questionar em qual candidato o cidadão irá votar.
 
 ### Configuração ###
 
-1 - Baixe a aplicação
-2 - Rode a aplicação em uma IDE habilitada para Pyhton, sugiro o PyCharm
-3 - Execute o arquivo main.py
+1. Baixe a aplicação
+2. Rode a aplicação em uma IDE habilitada para Pyhton, sugiro o PyCharm
+3. Execute o arquivo main.py
 
 ### Resultado da aplicação ###
+<img src="Print.png" height="200">
 
